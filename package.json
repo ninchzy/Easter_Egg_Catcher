@@ -1,0 +1,18 @@
+{
+  "name": "easter-egg-catcher",
+  "version": "1.0.0",
+  "description": "A cute 2D mobile arcade game about catching falling Easter eggs, built with PixiJS.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --host"
+  },
+  "dependencies": {
+    "pixi.js": "^8.22.0"
+  },
+  "devDependencies": {
+    "vite": "^5.4.21"
+  }
+}
